@@ -1,0 +1,8 @@
+{
+  "name": "BlackZap",
+  "description": "Uma réplica elegante e funcional do WhatsApp com tema dark total, focada em velocidade e experiência do usuário.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
